@@ -7,7 +7,6 @@ This project demonstrates an interactive Power BI dashboard designed to analyze 
 # Tools & Technologies Used 
 - Power BI: For creating interactive visualizations and dashboards. 
 - Excel: For data preprocessing and cleaning before importing into Power BI. 
-- Dataset: E-Commerce Sales Dataset (Include a link or specify the dataset source if available). 
 
 # Project Overview 
 The E-Commerce Dashboard is designed to provide detailed insights into the sales data of an e-commerce business. This dashboard visualizes various metrics like sales trends, top-selling products, regional sales performance, and customer segmentation. 
