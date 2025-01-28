@@ -1,14 +1,6 @@
 # E-Commerce-Dashboard
 Interactive Power BI dashboard analyzing e-commerce sales trends, customer behavior, and regional performance. Demonstrates skills in data visualization, Excel preprocessing, and business insights. 
 
-# Dashboard
-- https://github.com/Mohd-Faisal8081/E-Commerce-Dashboard/blob/main/Dashboard.pdf
-
-
-# Dataset
-- https://github.com/Mohd-Faisal8081/E-Commerce-Dashboard/blob/main/Details.xlsx
-- https://github.com/Mohd-Faisal8081/E-Commerce-Dashboard/blob/main/Orders.xlsx
-
 # Introduction 
 This project demonstrates an interactive Power BI dashboard designed to analyze the sales performance, customer behavior, and regional trends of an e-commerce platform. The dashboard provides actionable insights that can help improve business decision-making and drive sales strategies. 
 
@@ -46,6 +38,13 @@ Created various visual elements such as:
 - Sales Trends: Sales tend to peak during festive seasons, with a notable spike in December. 
 - Regional Insights: Region X shows the highest sales revenue, while Region Y has the largest number of customers. 
 - Customer Insights: Loyal customers are contributing to repeat purchases, showing a strong customer retention rate. 
+
+# Dashboard
+- https://github.com/Mohd-Faisal8081/E-Commerce-Dashboard/blob/main/Dashboard.pdf
+
+# Dataset
+- https://github.com/Mohd-Faisal8081/E-Commerce-Dashboard/blob/main/Details.xlsx
+- https://github.com/Mohd-Faisal8081/E-Commerce-Dashboard/blob/main/Orders.xlsx
 
 # Author 
 - Mohd Faisal
