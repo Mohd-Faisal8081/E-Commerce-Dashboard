@@ -4,6 +4,8 @@ Interactive Power BI dashboard analyzing e-commerce sales trends, customer behav
 # Dashboard
 https://github.com/Mohd-Faisal8081/E-Commerce-Dashboard/blob/main/Dashboard.pdf
 
+# Dataset
+- 
 # Introduction 
 This project demonstrates an interactive Power BI dashboard designed to analyze the sales performance, customer behavior, and regional trends of an e-commerce platform. The dashboard provides actionable insights that can help improve business decision-making and drive sales strategies. 
 
