@@ -38,10 +38,10 @@ Created various visual elements such as:
 3. **Regional Insights**: Region X shows the highest sales revenue, while Region Y has the largest number of customers. 
 4. **Customer Insights**: Loyal customers are contributing to repeat purchases, showing a strong customer retention rate. 
 
-# Dashboard
+### **Dashboard**
 - https://github.com/Mohd-Faisal8081/E-Commerce-Dashboard/blob/main/Dashboard.pdf
 
-# Dataset
+### **Dataset**
 - https://github.com/Mohd-Faisal8081/E-Commerce-Dashboard/blob/main/Details.xlsx
 - https://github.com/Mohd-Faisal8081/E-Commerce-Dashboard/blob/main/Orders.xlsx
 
